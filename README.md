@@ -13,6 +13,9 @@ I'm Aminos, a 23 years old front end developer .
 - ⚙️ React.JS,Next.Js,React Native
 - 👁️ SASS, CSS, Tailwind Css ,BootStrap
 - 💽 Mongo DB
+### Now !
+- I'm learning how to improve  react application performance
+- I'm learning TypeScript With React
 
 
  <h3 align="left">Languages and Tools:</h3>
