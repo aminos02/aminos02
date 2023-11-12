@@ -3,10 +3,10 @@
 </h1>
 
 ## Hey! 👋
-I'm Aminos, a 23 years old front end developer .
+I'm Aminos, I'm a front end developer .
 
 ## My Portfolio
-<a href="https://aminosportfolio.netlify.app/" target="_blank">Aminos portfolio</a>
+<a href="https://aminosportfolio.vercel.app/" target="_blank">Aminos portfolio</a>
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
@@ -15,7 +15,7 @@ I'm Aminos, a 23 years old front end developer .
 - 💽 Mongo DB
 ### Now !
 - I'm learning how to improve  react application performance
-- I'm learning TypeScript With React
+- I'm learning TypeScript and webpack With React
 
 
  <h3 align="left">Languages and Tools:</h3>
