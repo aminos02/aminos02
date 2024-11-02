@@ -14,9 +14,7 @@ I'm Aminos, I'm a front end developer .
 - 👁️ SASS, CSS, Tailwind Css ,BootStrap
 - 💽 Mongo DB
 ### Now !
-- I'm learning how to improve  react application performance
-- I'm learning TypeScript and webpack With React
-
+- I'm learning native mobile developement with android and swift
 
  <h3 align="left">Languages and Tools:</h3>
     <p align="left">
